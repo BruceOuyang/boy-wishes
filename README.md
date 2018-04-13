@@ -7,6 +7,7 @@
 # boy-wishes
 Bruce Ouyang 's Wishes
 
+> **每一个目标都应该对应一个计划，让目标看着不那么遥远，让自己看到这目标应该被怎么样一步一步的实现**
 
 ## boy-wanna 2018
 ![2018](images/boy-wanna+2018.png)
